@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nutenki Srivardhan</h1>
+<h1 >👋 Hi, I'm Nutenki Srivardhan</h1>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+I'm+Nutenki+Srivardhan;AI+%26+Frontend+Developer;Machine+Learning+Enthusiast;Cloud+Learner+%7C+AWS+%7C+Docker)](https://git.io/typing-svg)
