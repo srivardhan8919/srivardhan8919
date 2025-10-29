@@ -1,7 +1,10 @@
-<h1 >👋 Hi, I'm Nutenki Srivardhan</h1>
+<h1 align="center">👋 Hi, I'm Nutenki Srivardhan</h1>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+I'm+Nutenki+Srivardhan;AI+%26+Frontend+Developer;Machine+Learning+Enthusiast;Cloud+Learner+%7C+AWS+%7C+Docker)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+Frontend+Developer;Machine+Learning+Enthusiast;Cloud+Learner+%7C+AWS+%7C+Docker" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -9,7 +12,7 @@
 🚀 **AI & Frontend Developer | Machine Learning Enthusiast | AWS Cloud Learner**  
 
 🎯 Passionate about building **intelligent web apps** that blend *machine learning* with *interactive design*.  
-💡 Currently developing **PromptPilot** – an advanced AI prompt improver powered by Mistral 7B.  
+💡 Currently developing **PromptPilot** – an advanced AI prompt improver.  
 ☁️ Exploring **Flask-React integration**, **Dockerization**, and **Data Science**.  
 📫 Reach me at: [srivardhannani8919@gmail.com](mailto:srivardhannani8919@gmail.com)  
 🌐 Portfolio: [https://srivardhan8919.github.io/](https://srivardhan8919.github.io/My_Portfolio_/)  
@@ -20,7 +23,6 @@
 ### 🧠 Languages & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
