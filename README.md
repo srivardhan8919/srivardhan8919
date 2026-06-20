@@ -38,7 +38,7 @@
 
 ### 💼 Featured Projects  
 
-#### 🎓 [NLP-Powered College Chatbot](https://nlp-chat-bot.onrender.com/)
+#### 🎓 [NLP-Powered College Chatbot](https://nlp-chatbot-07rk.onrender.com)
 > A production-deployed AI assistant for Vaagdevi College of Engineering, answering admissions, fee, hostel, and placement queries in real time.  
 🔹 Custom TF-IDF + cosine-similarity matching engine (no heavy deep-learning models needed)  
 🔹 Premium glassmorphism UI with pure-CSS animations and dark/light mode  
@@ -47,7 +47,7 @@
 
 ---
 
-#### ⚖️ [Judicial Court Process Explainer Bot](https://github.com/srivardhan8919)
+#### ⚖️ [Judicial Court Process Explainer Bot](https://judicial-court-process-case-flow.onrender.com/)
 > A Gemini-powered educational tool that explains court procedures and legal terminology — built with a multi-layer safety architecture to strictly avoid giving legal advice.  
 🔹 Streamlit frontend with a clean, trustworthy UI  
 🔹 Intent filtering + output guardrails to block advisory language  
