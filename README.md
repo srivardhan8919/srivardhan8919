@@ -9,11 +9,9 @@
 ---
 
 ### 👨‍💻 About Me  
-🚀 **AI & Frontend Developer | Machine Learning Enthusiast | AWS Cloud Learner**  
+🚀 **Advanced Associate Software Engineer | AI & Machine Learning Enthusiast | AWS Cloud Learner**  
 
 🎯 Passionate about building **intelligent web apps** that blend *machine learning* with *interactive design*.  
-💡 Currently developing **PromptPilot** – an advanced AI prompt improver powered by *Mistral 7B*.  
-☁️ Exploring **Flask–React integration**, **Dockerization**, and **Data Science**.  
 📫 Reach me at: [srivardhannani8919@gmail.com](mailto:srivardhannani8919@gmail.com)  
 🌐 Portfolio: [srivardhan](https://portfolio-8zlz.onrender.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/srivardhan-nutenki-207b55249) | [GitHub](https://github.com/srivardhan8919)
