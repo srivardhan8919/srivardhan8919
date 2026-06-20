@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -36,26 +40,34 @@
 
 ### 💼 Featured Projects  
 
-#### 🧠 [PromptPilot](https://prompt-pilot-frontend-eta.vercel.app/)
-> AI Prompt Improver using **React**, **Flask**, and **MongoDB** — helps users rewrite and optimize prompts.  
-🔹 Frontend: React (with animations)  
-🔹 Backend: Flask API  
-🔹 Database: MongoDB  
-⚙️ *Ongoing – Advanced AI project for creative workflow enhancement.*
+#### 🎓 [NLP-Powered College Chatbot](https://nlp-chat-bot.onrender.com/)
+> A production-deployed AI assistant for Vaagdevi College of Engineering, answering admissions, fee, hostel, and placement queries in real time.  
+🔹 Custom TF-IDF + cosine-similarity matching engine (no heavy deep-learning models needed)  
+🔹 Premium glassmorphism UI with pure-CSS animations and dark/light mode  
+🔹 Self-pinging keep-alive daemon to bypass free-tier hosting sleep limits  
+🔹 Flask + Gunicorn backend deployed on Render  
 
 ---
 
-#### 🤖 [NLP-Powered Chatbot](https://nlp-chat-bot.onrender.com/)
-> AWS EC2–deployed chatbot answering college-related queries using NLP.  
-🔹 NLTK-based NLP understanding  
-🔹 Flask backend hosted on AWS EC2  
-🔹 Simple and dynamic UI  
+#### ⚖️ [Judicial Court Process Explainer Bot](https://github.com/srivardhan8919)
+> A Gemini-powered educational tool that explains court procedures and legal terminology — built with a multi-layer safety architecture to strictly avoid giving legal advice.  
+🔹 Streamlit frontend with a clean, trustworthy UI  
+🔹 Intent filtering + output guardrails to block advisory language  
+🔹 Visual API key manager with `.env` fallback  
 
 ---
 
-#### 🖼️ [Image Recognition (CNN/Xception)](https://github.com/srivardhan8919/image-recognition-inception-xception-gradio)
-> Compared **InceptionV3** and **Xception** models on CIFAR-10 dataset.  
-🔹 Real-time image classification with **Gradio**  
+#### 💸 [AI-Powered Expense Tracker](https://github.com/srivardhan8919)
+> Upload a CSV of expenses and get ML-driven categorization, visual breakdowns, and personalized cost-saving suggestions.  
+🔹 SVM classifier with TF-IDF text preprocessing for auto-categorization  
+🔹 Bar/pie chart visualizations via Matplotlib & Seaborn  
+🔹 Interactive Gradio interface for non-technical users  
+
+---
+
+#### 🖼️ [Image Recognition (Inception & Xception)](https://github.com/srivardhan8919/image-recognition-inception-xception-gradio)
+> Compared **InceptionV3** and **Xception** models on CIFAR-10 for image classification.  
+🔹 Real-time predictions via Gradio  
 🔹 TensorFlow-based model comparison  
 
 ---
@@ -93,4 +105,4 @@
 ---
 
 ### 🧩 Fun Fact  
-> “The best way to predict the future is to build it — one line of code at a time.” 💻
+> "The best way to predict the future is to build it — one line of code at a time." 💻
